@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tasky-App/static/css/main.a1afebde.css",
+    "main.js": "/Tasky-App/static/js/main.b9b8342e.js",
+    "index.html": "/Tasky-App/index.html",
+    "main.a1afebde.css.map": "/Tasky-App/static/css/main.a1afebde.css.map",
+    "main.b9b8342e.js.map": "/Tasky-App/static/js/main.b9b8342e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1afebde.css",
+    "static/js/main.b9b8342e.js"
+  ]
+}

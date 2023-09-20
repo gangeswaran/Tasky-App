@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Tasky-App/static/css/main.a1afebde.css",
-    "main.js": "/Tasky-App/static/js/main.b9b8342e.js",
+    "main.js": "/Tasky-App/static/js/main.9089e02a.js",
     "index.html": "/Tasky-App/index.html",
     "main.a1afebde.css.map": "/Tasky-App/static/css/main.a1afebde.css.map",
-    "main.b9b8342e.js.map": "/Tasky-App/static/js/main.b9b8342e.js.map"
+    "main.9089e02a.js.map": "/Tasky-App/static/js/main.9089e02a.js.map"
   },
   "entrypoints": [
     "static/css/main.a1afebde.css",
-    "static/js/main.b9b8342e.js"
+    "static/js/main.9089e02a.js"
   ]
 }

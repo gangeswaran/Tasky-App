@@ -22,7 +22,7 @@ function Items(props) {
             />
           </span>
         </p>
-      </div>s
+      </div>
       </FlipMove>
     );
   });
